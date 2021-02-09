@@ -38,4 +38,4 @@ function fullReverse(arr) {
 console.log(reverseWordsInString("AlgoExpert is the best!"));
 // best! the is Algoexpert
 console.log(reverseWordsInString("Does this alrorithm work?"));
-// work? algorithm this does
+// work? algorithm this Does
