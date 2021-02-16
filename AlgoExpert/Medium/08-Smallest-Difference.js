@@ -1,4 +1,3 @@
- 
  // 0(nlog(n) +  m(log(m)) time | 0(1) space
  
 function smallestDifference(arrayOne, arrayTwo) {
